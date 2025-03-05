@@ -109,7 +109,7 @@ This repository serves as a comprehensive record of my **hands-on practice and l
 
 ## 🔗 Connect With Me
 - **GitHub:** [https://github.com/joshiyrj](https://github.com/joshiyrj)
-- **LinkedIn:** [Add Your LinkedIn URL Here]
+- **LinkedIn:** [linkedin.com/in/yashrajjoshi]
 
 ---
 
